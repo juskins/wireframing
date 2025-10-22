@@ -60,5 +60,43 @@ A **“Search” button** in the booking interface allows users to trigger queri
 
 ---
 
-By combining these elements, wireframes help designers and stakeholders visualize how the interface will look and behave, creating a solid foundation for detailed design and development.
+## 🧮 Types of Wireframes
+
+Wireframes generally come in two fidelity levels: **Low-Fidelity** and **High-Fidelity**. Each serves a distinct purpose in the design process.
+
+**Low-Fidelity Wireframes**  
+Low-fidelity (lo-fi) wireframes are basic, often monochrome or grey-scale sketches or digital mock-ups. They focus on layout, structure and functionality — not on visual style or fine detail.  
+**When used:**  
+- At the very early stages of design (ideation phase)  
+- To explore multiple layout concepts quickly  
+- To get rapid feedback from stakeholders before committing to visual design  
+**Characteristics & Benefits:**  
+- Simple boxes and placeholders for images/text  
+- No detailed colors, typography or branding  
+- Cheap and fast to produce  
+- Encourages early feedback and iteration  
+
+**High-Fidelity Wireframes**  
+High-fidelity (hi-fi) wireframes are much more detailed. They resemble a near-final UI design, with colours, typography, icons, spacing, sometimes even real images and realistic interactions.  
+**When used:**  
+- After the structure and flow are confirmed  
+- Prior to handing off to development  
+- To validate UI details, branding, and user interaction logic  
+**Characteristics & Benefits:**  
+- Realistic layout, fonts, colours, imagery  
+- Defines precise visual and interaction details  
+- Helps communicate final look & feel, and reduces misinterpretation in hand-off  
+
+---
+
+## 📐 Which Type is the Figma Design?
+
+For the design shared here: [Project Airbnb on Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=dW2OyJS6ZPnEPGtw-0)  
+This appears to be a **High-Fidelity Wireframe** (or more accurately a UI mock‐up) because it includes branding, detailed component styling, realistic content placeholders or real content, and a near-final layout ready for hand-off.  
+
+In short:  
+- It serves the purpose of validating the final UI and interactions before development begins.  
+- It helps stakeholders, designers, and developers align on the look, feel and behaviour of the product.  
+- It provides a clear reference for the front-end implementation, testing and finishing touches.
+
 
