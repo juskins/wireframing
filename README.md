@@ -99,4 +99,33 @@ In short:
 - It helps stakeholders, designers, and developers align on the look, feel and behaviour of the product.  
 - It provides a clear reference for the front-end implementation, testing and finishing touches.
 
+## 🛠️ Popular Wireframing Tools
+
+Wireframing can be done using a wide range of tools — from simple pen-and-paper sketches to advanced digital design software. The right tool depends on your workflow, team size, and project complexity.
+
+### 1. **Figma**
+Figma is one of the most popular and powerful design tools for creating both low-fidelity and high-fidelity wireframes. It is cloud-based, allowing multiple designers, developers, and stakeholders to collaborate in real-time.
+
+**Key Features:**
+- 🧩 **Real-time collaboration:** Multiple users can work together on the same file, making feedback and iteration faster.  
+- 🎨 **Design components:** Reusable design elements (buttons, forms, icons, etc.) that ensure consistency across your wireframes.  
+- 🧭 **Prototyping:** Easily link wireframe screens to simulate navigation and user flow.  
+- ☁️ **Cloud storage:** Files are automatically saved and accessible from any device.  
+- 🔌 **Plugins and integrations:** Extend functionality with plugins for icons, accessibility checks, and developer hand-off tools.
+
+**Why Figma is Recommended:**
+- Beginner-friendly yet powerful enough for professional design teams.  
+- Encourages collaboration between designers, developers, and product managers.  
+- Ideal for wireframing, prototyping, and even full UI design — all within one platform.  
+- Offers both free and premium plans, making it accessible for students and professionals alike.
+
+### 2. **Other Popular Tools**
+While Figma is often the preferred choice, other tools are also widely used:
+- **Adobe XD:** Great for high-fidelity designs and prototyping.  
+- **Sketch:** Popular among Mac users for UI/UX design.  
+- **Balsamiq:** Excellent for quick, low-fidelity wireframes with a hand-drawn feel.  
+- **Miro / FigJam:** Useful for brainstorming, user flows, and low-fidelity wireframes in a collaborative environment.
+
+---
+
 
