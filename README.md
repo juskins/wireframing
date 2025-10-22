@@ -155,4 +155,29 @@ This helps designers and engineers create products that are both functional and 
 
 ---
 
+## 🧭 Real-World Scenario: How Wireframing Prevented Usability Issues
+
+During the design phase of a **hotel booking system (similar to Airbnb)**, the design team created detailed **wireframes** to visualize the user journey from browsing properties to completing a booking.
+
+### 🔍 Identified Usability Issue
+In the initial wireframe, the **checkout process** required users to navigate through three different pages — one for guest details, another for payment, and a final one for confirmation.  
+During wireframe review sessions, the UX team noticed that this multi-step process made the flow unnecessarily long and confusing, especially on mobile devices. Test users expressed frustration navigating back and forth to make edits.
+
+### 💡 Resolution
+Based on this insight, the team redesigned the flow directly in the wireframe:
+- Combined the guest and payment forms into a **single-page checkout**.
+- Added **progress indicators** to show the user’s current step.
+- Simplified input fields and included inline validation messages.
+
+These changes were quickly tested using the updated wireframe in **Figma**, allowing stakeholders and developers to provide feedback before any frontend code was written.
+
+### 🚀 Impact on the Final Product
+When development began, the team already had a **validated design** that offered a smoother, more intuitive experience.  
+Post-launch analytics showed a **25% increase in completed bookings**, and support tickets related to checkout confusion dropped significantly.
+
+### 🧩 Conclusion
+This scenario demonstrates how wireframing serves as a **critical validation tool** in software development. By visualizing and testing ideas early, teams can identify and fix usability issues before they become costly problems in code.  
+Ultimately, wireframing ensures that the final product is **user-friendly, efficient, and aligned with both business goals and user needs.**
+
+
 
